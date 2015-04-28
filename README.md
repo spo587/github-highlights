@@ -22,5 +22,8 @@ A python library for synthesizing digital instruments by building waveforms from
 
 This program builds sine waves as strings of integer bits in python, and uses the Sox program to convert them to sound waves. By combining different partials, one can create different tones, and using different onset and decay functions, one can create any number of different "instruments" with their own characteristic timbres, and write out tunes using the different instruments.
 
+[https://github.com/spo587/music/](https://github.com/spo587/music/)
+
+
 
 
