@@ -13,7 +13,7 @@ A minimax-with-heuristics algorithm for connect four strategy. The basic strateg
 [https://github.com/spo587/connect_four](https://github.com/spo587/connect_four)
 
 # Set Game Website
-This [website](https://dl.dropboxusercontent.com/u/95890750/set/set.html) allows you to play the best game ever, set, and time yourself. It detects "dead" boards (with no sets) automatically, and displays a hint if the user mistakenly asks for more cards.
+This [website](https://fierce-headland-9954.herokuapp.com) allows you to play the best game ever, set, and superset, its neglected cousin, live on the Internet either by yourself or with opponents on opposite ends of the planet. 
 
 [https://github.com/spo587/js_set](https://github.com/spo587/js_set)
 
