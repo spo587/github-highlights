@@ -15,7 +15,7 @@ A minimax-with-heuristics algorithm for connect four strategy. The basic strateg
 # Set Game Website
 This [website](https://fierce-headland-9954.herokuapp.com) allows you to play the best game ever, set, and superset, its neglected cousin, live on the Internet either by yourself or with opponents on opposite ends of the planet. 
 
-[https://github.com/spo587/js_set](https://github.com/spo587/js_set)
+[https://github.com/spo587/js_set](https://github.com/spo587/set-sockets)
 
 # Python Synthesizer
 A python library for synthesizing digital instruments by building waveforms from scratch. 
